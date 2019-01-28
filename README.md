@@ -1,4 +1,5 @@
 # Logstah_Test
 My first steps with Logstash
 
-Test with the new passphrase
+Input data in JSON format
+Ourput in CSV format
